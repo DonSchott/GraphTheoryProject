@@ -18,8 +18,9 @@ Less concise as the book -- as most wikipedia articles the content was written a
 ## Research papers
 
 To prepare my colloboration and finally win a Fields medal and/or Nobel price for literature, I want to work with and understand these two papers:
-[EDGE-COLORINGS AVOIDING PATTERNS IN A TRIANGLE](https://arxiv.org/pdf/2209.06991) and [MAXIMUM NUMBER OF EDGE COLORINGS AVOIDING RAINBOW
-COPIES OF K4](https://arxiv.org/pdf/2503.19244). 
+[EDGE-COLORINGS AVOIDING PATTERNS IN A TRIANGLE](https://arxiv.org/pdf/2209.06991),
+[MAXIMUM NUMBER OF EDGE COLORINGS AVOIDING RAINBOW COPIES OF K4](https://arxiv.org/pdf/2503.19244) and 
+[Graphs with many edge-colorings such that complete graphs are rainbow](https://portal.research.lu.se/en/publications/graphs-with-many-edge-colorings-such-that-complete-graphs-are-rai). 
 
 ## Software packages
 
