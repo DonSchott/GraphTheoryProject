@@ -1,0 +1,1 @@
+A set is a collection of distinct objects, none of which is the set itself.

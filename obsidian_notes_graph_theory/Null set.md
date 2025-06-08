@@ -1,0 +1,1 @@
+A [[set]] containing no elements is called a *null set* or *empty set*.
