@@ -1,1 +1,0 @@
-A *graph* is an object consisting of two [[set]]s called its *vertex set* and its *edge set*. The vertex set is a finite nonempty set. The edge set may be empty, but otherwise ist elements are two-element subsets of the vertex set.

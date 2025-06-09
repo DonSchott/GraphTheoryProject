@@ -1,0 +1,1 @@
+If G is a [[graph]] then the *complement of G*, denoted "$\overline G$", is a graph having the same vertex set; the edge set of $\overline G$ consists of all two-element subsets of the vertex set which have not already been included in the edge set of G. 

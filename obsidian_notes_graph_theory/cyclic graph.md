@@ -1,0 +1,1 @@
+If vertex number v is an integer greater than or equal to 3, the *cyclic graph on v vertices*, denoted $C_v$, is the [[graph]] having vertex set $\{1,2,3,\dots ,v\}$ and edge set $\{\{1,2\}, \{2,3\},\{3,4,\},\dots,\{v-1,v\}\}$.

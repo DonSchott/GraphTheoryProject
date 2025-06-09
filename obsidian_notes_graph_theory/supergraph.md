@@ -1,0 +1,1 @@
+If a [[graph]] H is a [[subgraph]] of a graph G, we will also say that G is a supergraph of H.

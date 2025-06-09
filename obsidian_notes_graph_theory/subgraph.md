@@ -1,0 +1,1 @@
+A graph H is a *subgraph* of a graph G if the vertex set of H is a subset of the vertex set of G and the edge set of H is a subset of the edge set of G.

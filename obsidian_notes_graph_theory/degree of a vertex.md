@@ -1,0 +1,1 @@
+The *degree* of a vertex is the number of edges incident to it.

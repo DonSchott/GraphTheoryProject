@@ -1,0 +1,1 @@
+A [[set]] A is said to be *equal* to a set *B*, denoted "$A = B$", if *A* is [[subset]] of *B* and *B* is subset of *A*, denoted $A \subset B$ and $B \subset A$.

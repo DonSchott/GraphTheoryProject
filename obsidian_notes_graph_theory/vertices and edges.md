@@ -1,0 +1,1 @@
+The elements of the vertex set of a graph are called *vertices* (singular: vertex) and the elements of the edge set are called *edges*. We shall denote the ***number of vertices*** by "***v***" and the ***number of edges*** by "***e***".

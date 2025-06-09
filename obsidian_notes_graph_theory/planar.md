@@ -1,0 +1,1 @@
+A [[graph]] is *planar* if it is [[isomorphic]] to a graph that has been drawn in a plane without edge-crossing. Otherwise a graph is *nonplanar*.

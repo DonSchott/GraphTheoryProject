@@ -1,0 +1,1 @@
+Two [[graph]]s are *equal* if they have equal vertex sets and equal edge sets. And we will say that two graph diagrams are *equal* if they represent equal vertex sets and equal edge sets.

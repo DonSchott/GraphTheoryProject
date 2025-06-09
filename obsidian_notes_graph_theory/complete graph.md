@@ -1,0 +1,1 @@
+If vertex number v is a positive integer, the *complete graph on v vertices*, denoted "$K_v$", is the [[graph]] having vertex set $\{1,2,3\dots,v\}$ and all possible edges. 
